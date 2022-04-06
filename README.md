@@ -1,0 +1,1 @@
+# WAX-token-contract
